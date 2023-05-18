@@ -1,0 +1,20 @@
+html {
+  background-image: url("https://play-lh.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP");
+  background-size: cover;
+}
+body {
+  text-align: center;
+  margin: 50px auto;
+  margin-top: 100px;
+  width: 600px;
+  color: palevioletred;
+}
+.nav a {
+  margin: 0px 25px;
+}
+h3 {
+  color: lightgray;
+}
+h2 {
+  color: rebeccapurple;
+}

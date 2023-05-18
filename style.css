@@ -1,0 +1,38 @@
+body {
+  text-align: center;
+  border: solid;
+  background-color: aliceblue;
+  margin: 50px auto;
+  width: 500px;
+  height: 900px;
+}
+
+.nav a {
+  margin: 0px 25px;
+}
+
+.gray {
+  color: GOLD;
+  font-family: cursive;
+}
+
+.epic {
+  position: absolute;
+  left: 5px;
+  top: 100px;
+  width: 350px;
+  height: 900px;
+}
+.dance {
+  position: absolute;
+  right: 5px;
+  top: 100px;
+  width: 350px;
+  height: 900px;
+}
+
+.quote {
+  color: maroon;
+  font-family: "Courier New", Courier, monospace;
+  font-size: medium;
+}
